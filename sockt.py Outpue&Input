@@ -1,0 +1,15 @@
+1- For listening to the port run on the terminal:
+
+$ nc -lnvp 9999                  #where 9999 is the port number
+listening on [any] 9999 ...
+
+2- Open another terminal and run the code :
+$ python3 sockt.py
+Enter the host IP OR loop IP or localhost IP ex:127.0.0.1
+127.0.0.1
+Enter the port Number ex: 9999
+9999
+
+3-will get response as 
+
+connect to [127.0.0.1] from (UNKNOWN) [127.0.0.1] 41546
