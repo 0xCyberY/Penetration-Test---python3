@@ -4,7 +4,7 @@
  #mporting the socket library and making a simple socket.
 import socket    
  
-host = input('Enter the host IP OR loop IP or localhost IP ex:127.0.0.1\n')
+host = input('Enter the host IP OR loopback IP or (localhost) IP ex:127.0.0.1\n')
 
 port = int(input('Enter the port Number ex: 9999\n'))
 
