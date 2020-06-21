@@ -1,3 +1,4 @@
+#first install nmap Lib by command $ pip3 install python-namp
 import nmap
 
 scanner = nmap.PortScanner()
