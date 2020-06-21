@@ -1,0 +1,34 @@
+
+Enter the target address: 192.168.1.1
+The host name is 
+The host status is up
+----------------
+the port23:
+state:open
+reason:syn-ack
+name:telnet
+product:utelnetd
+version:
+extrainfo:
+conf:10
+cpe:
+----------------
+the port53:
+state:open
+reason:syn-ack
+name:domain
+product:dnsmasq
+version:2.52
+extrainfo:
+conf:10
+cpe:cpe:/a:thekelleys:dnsmasq:2.52
+----------------
+the port80:
+state:open
+reason:syn-ack
+name:http
+product:Boa HTTPd
+version:0.94.13
+extrainfo:
+conf:10
+cpe:cpe:/a:boa:boa:0.94.13
